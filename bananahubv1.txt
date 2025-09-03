@@ -1325,8 +1325,8 @@ end
 print("--[[Loaded UI]]--")
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 Window = Fluent:CreateWindow({
-    Title = "Banana Cat Hub [Premium]",
-    SubTitle = "By Obii",
+    Title = "AnDepZai Hub",
+    SubTitle = "By TrongNguyen",
     TabWidth = 155,
     Size = UDim2.fromOffset(555, 320),
     Acrylic = false, 
@@ -8068,7 +8068,7 @@ ImageLabel.BackgroundTransparency = 1
 ImageLabel.BorderSizePixel = 1
 ImageLabel.BorderColor3 = Color3.fromRGB(27, 42, 53)
 ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
-ImageLabel.Image = "http://www.roblox.com/asset/?id= 5009915795"
+ImageLabel.Image = "http://www.roblox.com/asset/?id=111097214605723"
 
 UICorner.CornerRadius = UDim.new(1, 0)
 UICorner.Parent = Frame
